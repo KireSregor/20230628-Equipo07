@@ -10,7 +10,7 @@ LUIS ANGEL ARMUTO ABARCA
 
 ## Colombia
 
-¡Bienvenidos al repositorio de mi proyecto!
+¡Bienvenidos al repositorio de nuestro proyecto!
 
 Vivo en el país de Colombia 🌍.
 
